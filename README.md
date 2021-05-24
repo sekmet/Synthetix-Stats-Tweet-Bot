@@ -4,6 +4,9 @@
 
 Each hour this bot will report a statatics about section bellow.
 It will report trading fees and exchange volumes difference hourly too.
+### Bot live: https://twitter.com/BotSynthetix
+
+![network stats](bot_stats.png)
 
 ### General statistics
 
