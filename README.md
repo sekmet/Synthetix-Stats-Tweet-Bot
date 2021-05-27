@@ -6,8 +6,6 @@ Each hour this bot will report a statatics about section bellow.
 It will report trading fees and exchange volumes difference hourly too.
 ### Bot live: https://twitter.com/BotSynthetix
 
-![network stats](bot_stats.png)
-
 ### General statistics
 
 - Volume and rank
@@ -16,7 +14,10 @@ It will report trading fees and exchange volumes difference hourly too.
 - Total Value Locked
 - Amount of SNX staked (% of total)`
 
+
 ### Network statistics
+
+![network stats](network.jpg)
 
 - Fully diluted market cap for SNX
 - Price of sUSD on Curve
@@ -30,6 +31,8 @@ It will report trading fees and exchange volumes difference hourly too.
 
 ### Staking statistics
 
+![Staking statistics](staking.jpg)
+
 - SNX Staking APY
 - SNX Staking APY (With rewards)
 - Rewards pool
@@ -37,7 +40,10 @@ It will report trading fees and exchange volumes difference hourly too.
 - Upcoming fees in next period
 - Number of stakers
 
+
 ### Trading statistics
+
+![network stats](trading.jpg)
 
 - Trading volume
 - Trading fees
@@ -46,7 +52,10 @@ It will report trading fees and exchange volumes difference hourly too.
 - Number of unique traders
 - Average daily traders
 
+
 ### Yield Farming statistics
+
+![Yield Farming stats](yield.png)
 
 - Lending APY
 - Weekly rewards and APY for sUSD, sETH and sBTC
@@ -54,12 +63,17 @@ It will report trading fees and exchange volumes difference hourly too.
 
 ### Synths statistics
 
+![synths dominance stats](dominance.jpg)
+
 - Synths Dominance
 - The total value of all Synths in USD
 - Synths Top 10 +Volume 24hs
 - Synths Top 10 +Marketcap 24hs
 
+
 ### Binary options statistics
+
+![Binary options](binaryoptions.jpg)
 
 - The total amount of capital pooled in active binary options markets
 - The total number of trades over the past 24 hours in binary options markets
